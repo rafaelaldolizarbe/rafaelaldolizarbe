@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-# Olá, sou Rafael Aldo
+# 😉 Olá, sou Rafael Aldo
 
 Muito prazer, sinta-se a vontade para conhecer meu perfil. Vão fazer dois anos que comecei na área de Desenvolvimento Web. Gosto bastante de trabalhar com Desenvolvimento Fullstack e tenho forte interesse em continuar me desenvolvimento em CI/CD. A automação de integração e entrega continua tem me atraido bastante durante meu desenvolvimento profissional. Gosto do perfil DevOps & Data Analitycs com foco em cloud computing. Pretendo continuar esse caminho e me desenvolver focando em CI/CD com foco em machine learning e correlatos.
 
