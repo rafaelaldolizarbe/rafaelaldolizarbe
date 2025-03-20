@@ -1,12 +1,12 @@
 <!--## Hi there 👋-->
 
-# 😉 Olá, sou Rafael Aldo
+# Prazer, Rafael
 
-Muito prazer, sinta-se a vontade para conhecer meu perfil. Vão fazer dois anos que comecei na área de Desenvolvimento Web. Gosto bastante de trabalhar com Desenvolvimento Fullstack e tenho forte interesse em continuar me desenvolvimento em CI/CD. A automação de integração e entrega continua tem me atraido bastante durante meu desenvolvimento profissional. Gosto do perfil DevOps & Data Analitycs com foco em cloud computing. Pretendo continuar esse caminho e me desenvolver focando em CI/CD com foco em machine learning e correlatos.
+Muito prazer, sinta-se a vontade para conhecer meu perfil. Vão fazer três anos que comecei na área de Desenvolvimento Web. Gosto de trabalhar com Desenvolvimento Fullstack e quero continuar a aprimorar meu conhecimento seguindo a cultura CI/CD. Design Patterns, Estrutura de Dados e Clean code são temas que me mantêm ocupado quando penso em me aprender mais. Gosto do perfil DevOps do gerenciamento de arquitetura mais por causa do dinamismo e do significado, é por esse viés que entendemos ou temos uma idéia da importância da internet das coisas. Pretendo me aprimorar no conhecimento de arquiteturas complexas principalmente as que envolvem processamento e armazenamento de dados em massa.
 
 ## Pretenções
 
-Gosto muito de como os sistemas funcionam, sua complexidade e regras de negócio. Penso em como certas funcionalidades podem acabar refletindo interesses da comunidade de usuários. A coleta de dados a partir dos mais diversos meios tais como cookies e afins me interessa bastante, acompanhar a evolução dos dados em gráficos e insights é o que mais tem me chamado a atenção ultimamente. A verdade é que a transição de carreira surgiu justamente por causa desse facínio. No momento após ter me formado como Desenvolvedor Web pretendo ampliar ainda mais minhas habilidades de cunho analítico e me tornar um Analista ou um Cientista de Dados. Num futuro próximo pretendo trabalhar com LLMS e modelos de inteligência artificial, MachineLearning e correlatos.
+Gosto muito de sistemas integrados, sua complexidade e regras de negócio. Penso em como certas funcionalidades podem se destacar pelo seu valor e utilidade na sociedade em que vivemos. O armazenamento de informações, o controle e processamento destas dão valor a qualquer negócio. A previsibilidade é algo que considero importante dentro de qualquer contexto corporativo, vejo isso como sinônimo de qualidade e segurança à longo prazo. Penso nessas características da área de TI como fontes de motivação para me aprimorar nas áreas de Ciência de Dados, Desenvolvimento de IA a partir de Machine Learning, e Engenharia de dados. Tanto o processamento dos dados quanto a sua interpretabilidade são habilidades que me fascinam muito e pretendo me envolver nesse tipo de aprendizado.
 
 ## Tecnologias que uso no momento
 ![HTML](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5)
