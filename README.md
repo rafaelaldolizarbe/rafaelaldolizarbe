@@ -2,7 +2,7 @@
 
 # Prazer, Rafael
 
-Muito prazer, sinta-se a vontade para conhecer meu perfil. Vão fazer três anos que comecei na área de Desenvolvimento Web. Gosto de trabalhar com Desenvolvimento Fullstack e quero continuar a aprimorar meu conhecimento seguindo a cultura CI/CD. Design Patterns, Estrutura de Dados e Clean code são temas que me mantêm ocupado quando penso em me aprender mais. Gosto do perfil DevOps do gerenciamento de arquitetura mais por causa do dinamismo e do significado, é por esse viés que entendemos ou temos uma idéia da importância da internet das coisas. Pretendo me aprimorar no conhecimento de arquiteturas complexas principalmente as que envolvem processamento e armazenamento de dados em massa.
+Muito prazer, sinta-se a vontade para conhecer meu perfil. Vão fazer três anos que comecei na área de Desenvolvimento Web. Gosto de trabalhar com Desenvolvimento Fullstack e quero continuar a aprimorar meu conhecimento seguindo a cultura CI/CD. Design Patterns, Estrutura de Dados e Clean code são temas que me mantêm ocupado quando penso em me aprender mais. Gosto do perfil DevOps do gerenciamento de arquitetura mais por causa do dinamismo e do significado, é por esse viés que entendemos ou temos uma idéia da importância da internet das coisas. Pretendo me aprimorar no conhecimento de arquiteturas complexas, principalmente as que envolvem processamento e armazenamento de dados em massa.
 
 ## Pretenções
 
